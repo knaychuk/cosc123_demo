@@ -8,6 +8,8 @@ This is just text
 
 this is **bold**
 
+this is in *italics*
+
 - item 1
 - item 2
 - item 3
